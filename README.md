@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I am Christine, a metocean consultant at the [Norwegian Meteorological Institute](https://www.met.no/) and a Energy master's student at the [University of Bergen](https://www4.uib.no/studier/program/energi-integrert-masterprogram-sivilingenior). I specialize in ocean and wind, with a special interest of renewable technologies.
 
 ## Projects
